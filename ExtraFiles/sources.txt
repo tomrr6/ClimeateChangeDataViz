@@ -1,0 +1,13 @@
+Data Source:
+GISTEMP Team, 2021: GISS Surface Temperature Analysis (GISTEMP), version 4. NASA 
+Goddard Institute for Space Studies. Dataset accessed 2021-11-14
+at https://data.giss.nasa.gov/gistemp/.
+Lenssen, N., G. Schmidt, J. Hansen, M. Menne, A. Persin, R. Ruedy, and D. Zyss, 
+2019: Improvements in the GISTEMP uncertainty model. J. Geophys. Res. Atmos., 124, 
+no. 12, 6307-6326, doi:10.1029/2018JD029522.
+
+Source of Map Graphic:
+https://www.your-vector-maps.com/world/-144-free-vector-world-maps/?imagelist=wrld-bas
+
+Graphing script has been modified from this tutorial:
+https://youtu.be/Xrixs_XuDQo
